@@ -12,8 +12,6 @@ Instructions:
 
 
 
-Examples:
+Example:
 
 https://github.com/AnonymousCanadian/sdaah_rng_remover
-
-https://github.com/AnonymousCanadian/dynamic_rng_remover
